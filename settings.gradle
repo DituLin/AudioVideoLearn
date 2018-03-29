@@ -1,1 +1,1 @@
-include ':app', ':audiotrack', ':baselib', ':audiorecord'
+include ':app', ':audiotrack', ':baselib', ':audiorecord', ':videorecord', ':ffmpeg', ':ffmpegvoice', ':ffmpeglive'

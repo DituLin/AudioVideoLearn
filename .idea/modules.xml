@@ -7,6 +7,10 @@
       <module fileurl="file://$PROJECT_DIR$/audiorecord/audiorecord.iml" filepath="$PROJECT_DIR$/audiorecord/audiorecord.iml" />
       <module fileurl="file://$PROJECT_DIR$/audiotrack/audiotrack.iml" filepath="$PROJECT_DIR$/audiotrack/audiotrack.iml" />
       <module fileurl="file://$PROJECT_DIR$/baselib/baselib.iml" filepath="$PROJECT_DIR$/baselib/baselib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ffmpeg/ffmpeg.iml" filepath="$PROJECT_DIR$/ffmpeg/ffmpeg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ffmpeglive/ffmpeglive.iml" filepath="$PROJECT_DIR$/ffmpeglive/ffmpeglive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ffmpegvoice/ffmpegvoice.iml" filepath="$PROJECT_DIR$/ffmpegvoice/ffmpegvoice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/videorecord/videorecord.iml" filepath="$PROJECT_DIR$/videorecord/videorecord.iml" />
     </modules>
   </component>
 </project>

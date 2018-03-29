@@ -12,6 +12,10 @@
             <option value="$PROJECT_DIR$/audiorecord" />
             <option value="$PROJECT_DIR$/audiotrack" />
             <option value="$PROJECT_DIR$/baselib" />
+            <option value="$PROJECT_DIR$/ffmpeg" />
+            <option value="$PROJECT_DIR$/ffmpeglive" />
+            <option value="$PROJECT_DIR$/ffmpegvoice" />
+            <option value="$PROJECT_DIR$/videorecord" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
